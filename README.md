@@ -3,7 +3,7 @@
 <div align="center"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"></div>
 
 ## About me
-- BCA Final Year (2020 - 2023).
+- MCA (2023 - 2025).
 - Learning Latest Techonologies
 - Learning DSA
 
